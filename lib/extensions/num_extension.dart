@@ -1,0 +1,1 @@
+extension NumEx on num {}
