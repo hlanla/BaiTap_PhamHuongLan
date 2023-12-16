@@ -16,4 +16,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 //local DB dùng Hive DB,
-Splash => ListHiking 
+Splash => ListHiking
+
+// Cách thực thi chương trình: 
+- Giải nén Project và mở project
+- Terminal Flutter pub get
+- Nếu xảy ra lỗi SDK version thì upgrade lên
+- Chọn máy ảo và chạy chương trình
